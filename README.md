@@ -1,4 +1,4 @@
-Hello. I am a graduate student studying Artificial Intelligence. 
+Hello!!😄 I am a graduate student studying Artificial Intelligence. 
 
 In the future I would like to work as an AI engineer and develop new AI models.
 
