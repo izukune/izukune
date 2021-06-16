@@ -5,14 +5,11 @@ I'm also working as a freelance on web development projects.
 
 In graduate school, I am doing research on character AI.
 
-- My Languages:
-  - Python, C++, C#, JavaScript
+- My Languages: Python, C++, C#, JavaScript(Node.js)
 
-- Frameworks:
-  - Flask, Django, express
+- Frameworks: Flask, Django, express
 
-- Data Base:
-  - MySQL, SQLite3
+- Data Base: MySQL, SQLite3
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=izukune&show_icons=true" />
