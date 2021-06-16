@@ -12,8 +12,9 @@ In graduate school, I am doing research on character AI.
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izukune" />
 </a>
 
-My Languages: Python, C++, C#, JavaScript <br>
-<hr>
-Frameworks: Flask, Django, express <br>
-<hr>
-Data Base: MySQL, SQLite3
+- My Languages:  <br>
+  - Python, C++, C#, JavaScript
+
+- Frameworks: Flask, Django, express <br>
+
+- Data Base: MySQL, SQLite3
