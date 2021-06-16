@@ -1,5 +1,5 @@
 Hello. My name is IZU.<br />
-I am working part-time as an AI engineer in an AI venture. There, I am doing research and development on natural language processing and artificial intelligence for 3d data.
+I am working part-time as an AI engineer in an AI venture. I'm doing research and development on natural language processing and artificial intelligence for 3d data like CAD.
 
 I'm also working as a freelancer on web development projects.
 
