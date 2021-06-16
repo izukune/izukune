@@ -13,5 +13,7 @@ In graduate school, I am doing research on character AI.
 </a>
 
 My Languages: Python, C++, C#, JavaScript <br>
+<hr>
 Frameworks: Flask, Django, express <br>
+<hr>
 Data Base: MySQL, SQLite3
