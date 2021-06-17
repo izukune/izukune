@@ -5,9 +5,9 @@ I'm also working as a freelance on web development projects.
 
 In graduate school, I am doing research on character AI.
 
-- My Languages: Python, C++, C#, JavaScript(Node.js)
+- My Languages: Python, C++, C#, JavaScript(Node.js), Java
 
-- Frameworks: Flask, Django, express
+- Frameworks: Flask, Django, express, Spark
 
 - Data Base: MySQL, SQLite3
 
