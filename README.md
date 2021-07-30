@@ -5,7 +5,7 @@ I'm also working as a freelance on web development projects.
 
 In graduate school, I am doing research on character AI.
 
-- Languages: Python, C++, C#, JavaScript(Node.js), Java
+- Languages: Python, C++, C#, JavaScript(Node.js), Java, Lisp, Haskell
 - Frameworks: Flask, Django, express, Spark
 - Data Base: MySQL, SQLite3
 - 3D tools: blender, freeCAD, Unity, MeshLab, open3D
