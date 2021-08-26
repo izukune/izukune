@@ -7,9 +7,9 @@ In graduate school, I am doing research on character AI.
 
 My portofolio is [here](https://izu-portfolio-omega.vercel.app/works)
 
-- Languages: Python, C++, C#, JavaScript(Node.js), Java, Lisp, Haskell
-- Frameworks: Flask, Django, express, Spark
-- Data Base: MySQL, SQLite3
+- Languages: Python, C++, C#, Node.js, Lisp, Haskell
+- Frameworks: Flask, Django, express
+- Data Base: MySQL, SQLite3, mongoDB
 - 3D tools: blender, freeCAD, Unity, MeshLab, open3D
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
