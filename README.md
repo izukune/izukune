@@ -1,4 +1,4 @@
-Hello. My name is IZU.<br />
+Hello. My name is izuku.<br />
 I'm a freelance engineer developing web and mobile apps.
 
 My portofolio is [here](https://izu-portfolio-omega.vercel.app/works)
