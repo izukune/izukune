@@ -1,5 +1,6 @@
-Hello. My name is izuku.<br />
-I'm a freelance engineer developing web and mobile apps.
+Hello. I am izuku.<br />
+フロントエンドエンジニア<br />
+理科大 >> クリスタルメソッド株式会社 >> 株式会社キングポケット
 
 My portofolio is [here](https://izu-portfolio-omega.vercel.app/works)
 
