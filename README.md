@@ -1,6 +1,5 @@
 Hello. I am izuku.<br />
-フロントエンドエンジニア<br />
-理科大 >> クリスタルメソッド株式会社 >> 株式会社キングポケット
+frontend dev<br />
 
 My portofolio is [here](https://izu-portfolio-omega.vercel.app/works)
 
