@@ -2,7 +2,7 @@ web engineer / AI engineer<br />
 
 My website is [here](https://izuku.tech)
 
-- Languages ▷ Python, Node.js, Haskell
+- Languages ▷ Python, Node.js, PHP
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=izukune&show_icons=true&theme=tokyonight&show_icons=true" />
