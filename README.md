@@ -1,4 +1,4 @@
-web engineer / AI engineer<br />
+design engineer<br />
 
 My website is [here](https://izuku.tech)
 
