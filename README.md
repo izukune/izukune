@@ -1,6 +1,6 @@
 design engineer / Kingpocket Inc. COO<br />
 
-My website is [here](https://izuku.tech)
+Please submit your job request through [this website](kingpocket.co.jp).
 
 Languages ▷  JavaScript, TypeScript, PHP, Python,
 
