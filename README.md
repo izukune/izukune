@@ -1,3 +1,2 @@
-engineer / Kingpocket Inc. COO<br />
-
-Languages ▷  JavaScript, TypeScript, PHP, Python,
+Engineer@Kingpocket<br/>
+NextJS / NestJS
