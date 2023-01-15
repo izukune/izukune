@@ -1,2 +1,3 @@
-Engineer@Kingpocket<br/>
-NextJS / NestJS
+AI engineer@Kingpocket<br/>
+Web engineer@Moffly<br/>
+NextJS / NestJS / Python
